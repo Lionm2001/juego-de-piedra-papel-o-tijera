@@ -19,3 +19,5 @@ Permite al usuario elegir entre piedra, papel o tijera. La computadora genera su
 ### Para qué sirve
 
 Entretenimiento: es un juego rápido y sencillo para pasar el rato. Competencia amistosa: permite medir suerte y algo de estrategia contra la computadora. Práctica de lógica: ayuda a aprender a usar condicionales y comparaciones en programación.
+
+FECHA 19/08/2025
